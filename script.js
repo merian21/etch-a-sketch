@@ -3,7 +3,7 @@ const changeGridBtn = document.querySelector("#changeGrid");
 
 changeGridBtn.addEventListener("click", setGridSize);
 
-let gridSize = 4;
+let gridSize = 20;
 
 createGrid();
 
